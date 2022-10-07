@@ -1,0 +1,6 @@
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/bin/Debug/CreationalPatterns.exe
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/bin/Debug/CreationalPatterns.pdb
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/obj/Debug/CreationalPatterns.csprojAssemblyReference.cache
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/obj/Debug/CreationalPatterns.csproj.CoreCompileInputs.cache
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/obj/Debug/CreationalPatterns.exe
+/Users/sabateklu/DesignPatterns/CreationalPatterns/CreationalPatterns/obj/Debug/CreationalPatterns.pdb
